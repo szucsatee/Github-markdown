@@ -7,8 +7,11 @@ A GitHub Markdown (és a specifikus GitHub Flavored Markdown - GFM) segítségé
 ### Fejlécek
 Használj `#` jeleket a sor elején. Minél több a `#`, annál kisebb a fejléc.
 
-# Első szintű főcím (H1)
+'# Első szintű főcím (H1)'
+ # Első szintű főcím (H1)
+'## Második szintű alcím (H2)'
 ## Második szintű alcím (H2)
+"### Harmadik szintű alcím (H3)"
 ### Harmadik szintű alcím (H3)
 
 ### Szövegformázás
